@@ -3,3 +3,6 @@ my next movie GOAT
 
 Master 
 kerthi yeada potta
+
+
+age = 20
